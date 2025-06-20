@@ -35,6 +35,7 @@ public class MathBasic {
 
         int Byte = 24;
         int MB ;
+        //
 
      MB= Byte /1048576 ;
         System.out.println(MB) ;
